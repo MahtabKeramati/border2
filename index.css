@@ -1,0 +1,35 @@
+.top-container-father {
+  display: flex;
+  justify-content: left;
+}
+
+.top-container-child {
+  width: 200px;
+  height: 200px;
+    border: 10px hidden black;
+  background-color: #00ffff;
+}
+
+.middle-container-father {
+  display: flex;
+  justify-content: left;
+}
+
+.middle-container-child {
+  width: 200px;
+  height: 200px;
+    border: 10px hidden black;
+  background-color: #ff0000;
+}
+
+.bottom-container-father {
+  display: flex;
+  justify-content: left;
+}
+
+.bottom-container-child {
+  width: 200px;
+  height: 200px;
+    border: 10px hidden black;
+  background-color: #0000ff;
+}
